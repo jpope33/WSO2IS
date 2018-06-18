@@ -1,0 +1,22 @@
+[2018-04-11 11:45:15,722]  INFO {AUDIT_LOG}-  Initiator : wso2.system.user | Action : Add BPS Profile | Data : { "Profile Name" : "embeded_bps","Manager Host URL" : "https://localhost:9443/services","Worker Host URL" : "https://localhost:9443/services","User" : "admin" } | Result :  Success  
+[2018-04-11 13:11:58,513]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 13:11:58,512-0400] 
+[2018-04-11 13:12:06,110]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2018-04-11 13:12:06,0109] 
+[2018-04-11 13:13:47,366]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 13:13:47,365-0400] 
+[2018-04-11 13:19:51,476]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 13:19:51,475-0400] 
+[2018-04-11 13:20:28,128]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 13:20:28,126-0400] 
+[2018-04-11 13:21:38,376]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 13:21:38,373-0400] 
+[2018-04-11 13:21:57,530]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2018-04-11 13:21:57,0529] 
+[2018-04-11 14:45:57,807]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 14:45:57,802-0400] 
+[2018-04-11 14:55:32,851]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 14:55:32,850-0400] 
+[2018-04-11 15:19:46,029]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2018-04-11 15:19:46,0028] 
+[2018-04-11 15:19:50,456]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 15:19:50,449-0400] 
+[2018-04-11 15:29:19,642]  INFO {AUDIT_LOG}-  Initiator : admin@carbon.super | Action : Add User | Target : user1 | Data : { Roles : } | Result : Success  
+[2018-04-11 15:29:53,018]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2018-04-11 15:29:53,0016] 
+[2018-04-11 15:29:55,765]  WARN {AUDIT_LOG}-  Failed Administrator login attempt 'user1[-1234]' at [2018-04-11 15:29:55,762-0400] 
+[2018-04-11 15:30:06,264]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 15:30:06,262-0400] 
+[2018-04-11 16:57:47,285]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-11 16:57:47,284-0400] 
+[2018-04-11 16:58:28,010]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { wso2app } | Result : Success  
+[2018-04-11 17:07:50,245]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { wso2app } | Result : Success  
+[2018-04-11 17:12:30,395]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { wso2app } | Result : Success  
+[2018-04-11 17:13:14,438]  INFO {AUDIT_LOG}-  Initiator : user1 | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "24688522-7963-462c-b5fb-48fc08e58a57","AuthenticatedUser" : "user1","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2app","RequestType" : "samlsso","RelyingParty" : "wso2app","AuthenticatedIdP" : "LOCAL" } | Result : Success  
+[2018-04-11 17:13:14,519]  INFO {AUDIT_LOG}-  Initiator : user1 | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "24688522-7963-462c-b5fb-48fc08e58a57","AuthenticatedUser" : "user1","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "wso2app","RequestType" : "samlsso","RelyingParty" : "wso2app","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCAiYWxnIjoibm9uZSJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNTIzNDgxMTk0NDQyMzAwMCwiaWF0IjoxNTIzNDgxMTk0NDQyLCJpZHBzIjpbeyJpZHAiOiJMT0NBTCIsImF1dGhlbnRpY2F0b3IiOiJCYXNpY0F1dGhlbnRpY2F0b3IifV19." } | Result : Success  

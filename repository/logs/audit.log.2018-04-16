@@ -1,0 +1,45 @@
+[2018-04-16 12:40:28,881]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 12:40:28,878-0400] 
+[2018-04-16 12:41:14,247]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 12:41:14,246-0400] 
+[2018-04-16 12:41:14,271]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : wso2appAPI | Data : { null } | Result : Success  
+[2018-04-16 12:43:54,119]  INFO {AUDIT_LOG}-  Initiator : admin | Action : create | Target : 0 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:01:51,655]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 13:01:51,654-0400] 
+[2018-04-16 13:08:06,246]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 13:08:06,245-0400] 
+[2018-04-16 13:17:20,017]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:17:33,726]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 13:17:33,724-0400] 
+[2018-04-16 13:24:27,657]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:24:51,625]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:30:58,458]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:33:02,971]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:34:15,747]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:34:45,247]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:35:27,661]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:36:04,736]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:36:53,786]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:37:40,870]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:38:13,077]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 13:38:47,881]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:00:23,944]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 14:00:23,941-0400] 
+[2018-04-16 14:02:24,489]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 14:02:24,488-0400] 
+[2018-04-16 14:03:01,467]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:05:47,054]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:06:30,754]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:09:35,187]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:10:19,580]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:11:57,435]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:17:40,791]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:26:28,213]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 14:26:28,213-0400] 
+[2018-04-16 14:26:41,361]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { wso2app } | Result : Success  
+[2018-04-16 14:27:45,951]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 2 | Data : { wso2app } | Result : Success  
+[2018-04-16 14:28:51,831]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:41:12,699]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:43:10,773]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 14:59:29,233]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 14:59:29,232-0400] 
+[2018-04-16 15:51:36,234]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 15:51:36,232-0400] 
+[2018-04-16 16:03:07,359]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 16:11:53,341]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 16:12:09,937]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 16:12:09,936-0400] 
+[2018-04-16 16:27:57,637]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 16:27:57,636-0400] 
+[2018-04-16 16:31:01,823]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 16:31:01,820-0400] 
+[2018-04-16 16:37:53,110]  INFO {AUDIT_LOG}-  Initiator : admin | Action : update | Target : 4 | Data : { wso2appAPI } | Result : Success  
+[2018-04-16 16:38:02,551]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged out at [2018-04-16 16:38:02,0550] 
+[2018-04-16 16:38:07,032]  INFO {AUDIT_LOG}-  'admin@carbon.super [-1234]' logged in at [2018-04-16 16:38:07,032-0400] 
